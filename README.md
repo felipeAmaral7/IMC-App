@@ -4,6 +4,10 @@ Um aplicativo Android simples desenvolvido em **Kotlin** para calcular o **Índi
 
 ---
 
+## 🖼️ Capturas de Tela 
+
+<img src="IMC_screenshot.png" width=200/>
+
 ## 🛠️ Tecnologias Utilizadas
 
 - [Kotlin](https://kotlinlang.org/)  
