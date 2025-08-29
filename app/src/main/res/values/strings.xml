@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="calcular_imc">CALCULAR IMC</string>
+    <string name="help_text_casas_decimais">Utilize \'.\' para separar as casas decimais</string>
+    <string name="height_input">Digite sua altura ex: 1.70</string>
+    <string name="weight_input">Digite seu peso ex: 60.5</string>
+    <string name="description_IMC_image">Imagem icone do IMC</string>
+    <string name="result_weight">Peso informado</string>
+    <string name="result_height">Altura informada</string>
+    <string name="diagnostic_result">Diagnóstico</string>
+    <string name="table_weight_img">Imagem da tabela dos pesos</string>
+</resources>
